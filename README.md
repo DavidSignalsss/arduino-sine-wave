@@ -48,7 +48,7 @@ Meanwhile, the OLED graphically shows the waveform, emulating an oscilloscope.
 <p align="center">
   <img src="ArduinoSineScope.jpeg" alt="Step 1" width="300">
 </p>
-<p align="center"><em>Figure – OLED Screen Func.</em></p>
+<p align="center"><em>Figure – OLED Screen with Sine Scope.</em></p>
 
 
 ## 🪪 License
