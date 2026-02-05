@@ -45,7 +45,10 @@ Meanwhile, the OLED graphically shows the waveform, emulating an oscilloscope.
 
 ## 📸 Demo
 
-(https://github.com/user-attachments/assets/fc755bd6-5f61-4c8f-87f8-1b33930f498c)
+<p align="center">
+  <img src="img/ArduinoSineScope.jpg" alt="Step 1" width="300">
+</p>
+<p align="center"><em>Figure – OLED Screen Func.</em></p>
 
 
 ## 🪪 License
